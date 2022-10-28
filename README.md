@@ -1,4 +1,4 @@
-# -Driver-Fatigue-Detection-Sensor
+  # Driver-Fatigue-Detection-Sensor
  Driver Fatigue Detection Sensor with Python, OpenCV and Raspberry PI
 ![scheme](https://user-images.githubusercontent.com/49395473/198663876-a6b3632b-200f-4f06-8f40-f6b0337ac67a.png)
 
@@ -16,3 +16,8 @@ create the algorithm that understands driver fatigue. Haar Cascade classifier wa
 to detect eyes and faces, and whether the face was detected and whether the eyes were
 open or closed were determined. Fatigue was detected according to the time the eyes
 were closed, and an audible warning was given to the person.
+
+# MATERIALS
+Raspberry PI 3B+
+Raspberry PI Camera Module
+
