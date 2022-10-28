@@ -4,8 +4,8 @@
 
 
 
-#SUMMARY
-## Today, a high proportion of traffic accidents are accidents caused by fatigue. A system
+# SUMMARY
+Today, a high proportion of traffic accidents are accidents caused by fatigue. A system
 is needed to warn drivers when they are tired or falling asleep. With this developed
 system, a system that monitors the driver’s eye conditions, understands driver fatigue
 and gives an audible warning has been developed. In this system, the Raspberry Pi 3B+
